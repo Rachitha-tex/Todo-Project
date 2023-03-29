@@ -9,7 +9,7 @@
 
 ##Instructions for installing project
 
-Step 01 : git clone https://github.com/Rachitha-tex/Todo-Project
+<p>Step 01 : git clone https://github.com/Rachitha-tex/Todo-Project</p><br>
 Step 02 : cd Todo-Project
 Step 03 : composer install or composer update
 Step 05 : cp .env.example .env
